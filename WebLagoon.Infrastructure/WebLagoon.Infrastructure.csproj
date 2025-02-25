@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WebLagoon.Web\WebLagoon.Web.csproj" />
+    <ProjectReference Include="..\WebLagoon.Domain\WebLagoon.Domain.csproj" />
   </ItemGroup>
 
 </Project>
